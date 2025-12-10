@@ -1,5 +1,5 @@
 # Hiii this is my github profile :3 
-I'm a student and most of the things I upload here will be privated or school work. I'm an aspiring programmer and know a good amout of Java. It's the language I have the most experience programming in, but I'm not bad at other common languages like C# and Python.
+I'm a student and most of the things I upload here will be privated or school work. I'm an aspiring programmer and know a good amout of Java. It's the language I have the most experience programming in, but I'm not bad at other common languages like C#, JavaScript, and Python.
 <br>
 If you want to contact me for whatever reason please add me on discord at "toekeyo" or email me at IAmGoingToCommitTaxFraud@outlook.com :)
 
